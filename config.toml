@@ -1,4 +1,4 @@
-baseURL = "http://soportehome.github.io/static_website"
+baseURL = "https://soportehome.github.io/static_website"
 languageCode = "en-us"
 title = "MSIG XXI"
 publishDir = "docs"

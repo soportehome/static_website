@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>MSIG XXI</title>
-    <link>http://soportehome.github.io/static_website/</link>
+    <link>https://soportehome.github.io/static_website/</link>
     <description>Recent content on MSIG XXI</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 14 May 2020 14:38:00 -0500</lastBuildDate>
     
-	<atom:link href="http://soportehome.github.io/static_website/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://soportehome.github.io/static_website/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>My First Post</title>
-      <link>http://soportehome.github.io/static_website/posts/my-first-post/</link>
+      <link>https://soportehome.github.io/static_website/posts/my-first-post/</link>
       <pubDate>Thu, 14 May 2020 14:38:00 -0500</pubDate>
       
-      <guid>http://soportehome.github.io/static_website/posts/my-first-post/</guid>
+      <guid>https://soportehome.github.io/static_website/posts/my-first-post/</guid>
       <description></description>
     </item>
     
